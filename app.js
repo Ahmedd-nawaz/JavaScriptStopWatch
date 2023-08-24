@@ -1,22 +1,3 @@
-// setInterval(function(){
-//     document.write("Hello world")
-// },1000)
-
-// function timer(){
-//     document.write("saad")
-// }
-// setInterval(timer,4000)
-
-// setTimeout(() => {
-//     document.write("Abc")
-// },4000);
-
-// var num = 0;
-// setInterval((){
-//     num++
-//     console.log("num")
-// },1000);
-
 var minutes = 0;
 var seconds = 0;
 var miliseconds = 0;
