@@ -26,7 +26,7 @@ body {
     font-weight: bolder;
     color: #0078b0;
     font-size: 40px;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 25px;
